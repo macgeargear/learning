@@ -1,0 +1,46 @@
+1. Basic for Python Programing 
+
+2. Introduction to Linux 
+
+3. Introduction to Kaggle 
+
+4. Introduction to Google Colab 
+
+5. Introduction to Github 
+
+6. Mathematics for AI 
+
+7. Introduction to Classical Machine Learning 
+
+8. Ensemble Method 
+
+9. Introduction to Neural Network and Deep Learning 
+
+10. Introduction to Natural Language Processing 
+
+11. Introduction to Image processing and Computer vision 
+
+12. Introduction to Internet of Things 
+
+13. Introduction to Robotics 
+
+14. Computer Vision 
+
+15. Introduction to Signal Processing 
+
+16. Introduction to Signal Processing for Tutorial and Workshop 
+
+17. Introduction to Data Science 
+
+18. Introduction to Genetic Algorithms 
+
+19. Introduction to Data Visualization 
+
+20. Introduction to Data Science and Big Data 
+
+21. Predicate logic and Artificial Intelligence 
+
+22. AI Ethics 
+
+23. Software License 
+

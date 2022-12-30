@@ -1,0 +1,112 @@
+1. Advanced to Mathematics for AI 
+
+2. Advanced to Classical Machine Learning 
+
+3. Advanced to Neural Network and Deep Learning 
+
+4. Introduction to Neural Network and DL 
+
+5. Introduction to Point Cloud (Digital Geometry Processing) 
+
+6. Introduction to Image processing and CV 
+
+7. Introduction to Point Cloud (2D-3D Reconstruction) 
+
+8. Digital Geometry Processing 
+
+9. Introduction to Point Cloud (3D Deep Learning and PointNet) 
+
+10. 2D-3D Reconstruction 
+
+11. One-Class-Classificaion 
+
+12. Principal Component Analysis (PCA) 
+
+13. Hidden Markov Model (HMM) 
+
+14. Acoustic Speech Recognition (ASR) 
+
+15. Hidden Markov Model 
+
+16. Natural Language Processing (Computational linguistics) 
+
+17. Natural Language Processing (Automata) 
+
+18. Natural Language Processing (Text Processing) 
+
+19. Natural Language Processing (Question-Answering) 
+
+20. Natural Language Processing (Machine Translation) 
+
+21. Natural Language Processing (Web Scraping and Document Classification) 
+
+22. Stock Manipulation (Recurrent Neural Network) 
+
+23. Finance Focus on Reinforcement Learning 
+
+24. Advanced to Internet of Things 
+
+25. Advanced to Robotics (Robot Kinematic) 
+
+26. Introduction to Deployment 
+
+27. Introduction to Docker 
+
+28. Microservices and Docker Compose 
+
+29. Advanced Ensemble Methods 
+
+30. Advanced Image Processing 
+
+31. Data Science and Statistics 
+
+32. Data Analytics for Signal Processing 
+
+33. Stock Analysis 
+
+34. Image Processing and Deep Learning 
+
+35. Image Processing for Tutorial and Workshop 
+
+36. Kaggle Tutorial and Workshop 
+
+37. NLP Basic Tools and Their Application 
+
+38. NLP Applications and Ideation 
+
+39. NLP for Law 
+
+40. NLP Basic Tools and Their Application (Text to Speech: TTS) 
+
+41. Machine Translation and The BERT Family 
+
+42. Virtual Influencer 
+
+43. Artificial Intelligence and Fault Diagnosis of Electric Motors 
+
+44. Introduction to BCI and BCI-Controlled Robot 
+
+45. Motor Imagery EEG-BCI 
+
+46. Comparing Test Sets with Item Response Theory 
+
+47. Learning in Machines Translation and Brains 
+
+48. Stock Analysis : Portfolio Optimization 
+
+49. Advanced Natural Language Processing 
+
+50. Advanced NLP for Tutorial and Workshop 
+
+51. Word2Vec 
+
+52. Machine Translation for Tranformer 
+
+53. Machine Translation workshop 
+
+54. Internet of Things and Robotics 
+
+55. IoT and Robotics for Tutorial and Workshop 
+
+56. Blockchain Smart Contract Tutorial and Workshop 
+
