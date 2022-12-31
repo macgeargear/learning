@@ -23,12 +23,6 @@ export enum Rank {
     StraightFlush = 8,
 }
 
-type HandPower = {
-    rank: Rank
-    highs: number[]
-}
-
-
 class Card {
     number: number
     suits: Suits
@@ -40,7 +34,22 @@ class Card {
 }
 
 class HandPower {
-    constructor(public readonly rank: Rank, public readonly )
+    constructor(public readonly rank: Rank, public readonly highs: number[]) {}
+
+    private compareHighs(handPower: HandPower): ComparisonResult {
+        for (let i=0; i<this.highs.length; i++) {
+            if (this.highs[i] > handPower.highs[i]) return ComparisonResult.Win
+            if (this.highs[i] < handPower.highs[i]) return ComparisonResult.Lose
+        }
+        return ComparisonResult.Draw
+    }
+
+    public compareWith(anotherHandPower: HandPower): ComparisonResult {
+        const anotherRank = anotherHandPower.rank
+        if (this.rank > anotherRank) return ComparisonResult.Win
+        if (this.rank < anotherRank) return ComparisonResult.Lose
+        return this.compareHighs(anotherHandPower)
+    }
 }
 
 
@@ -52,7 +61,7 @@ export class Hand {
     }
 
     private power(): HandPower {
-        throw Error('Not implemented')
+        
     }
 
     public compareWith(anotherHand: Hand): ComparisonResult {
