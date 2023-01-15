@@ -3,14 +3,22 @@
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
-      "type": "lldb",
+      "type": "cppdbg",
       "request": "launch",
       "args": [],
-      "stopAtEntry": true,
+      "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/Users/macgeargear/dev/geeksforgeeks/linkedlist",
-      "program": "/Users/macgeargear/dev/geeksforgeeks/linkedlist/build/Debug/outDebug",
-      "MIMode": "gdb"
+      "cwd": "/Users/macgeargear/LEARNING/DSA/linkedlist",
+      "program": "/Users/macgeargear/LEARNING/DSA/linkedlist/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
     }
   ]
 }
