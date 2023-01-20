@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/macgeargear/LEARNING/DSA/tree/basic_operation",
-      "program": "/Users/macgeargear/LEARNING/DSA/tree/basic_operation/build/Debug/outDebug"
+      "cwd": "/Users/macgeargear/LEARNING/DSA/tree",
+      "program": "/Users/macgeargear/LEARNING/DSA/tree/build/Debug/outDebug"
     }
   ]
 }
