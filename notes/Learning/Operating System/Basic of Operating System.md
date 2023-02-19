@@ -1,4 +1,5 @@
-- [[Typical Roles of OS]]
+###### Topics
+****- [[Typical Roles of OS]]
 - Time sharing among processes and OS (scheduler) on CPU cores
 - Hardware Interrupt
 - [[Device Driver]]
@@ -13,3 +14,8 @@
 - [[File System in Linux]] : The "File System" as an abstraction for storage devices 
 - Windows and Unix File Path
 - IPC Interprocess Communication
+
+
+
+- OS - program that manages the computer hardware.
+- It also provides a basis for Application Programs and acts as an *intermediary* between computer **User** and computer **Hard ware**
